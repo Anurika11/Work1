@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "type": "class",
+    "title": "Prologue to Social qualities",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, fugit?",
+    "price": 50,
+    "area": "English",
+    "length": 30,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "Loveth",
+      "lastname": "Ifedi"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Loveth Ifedi",
+        "feedback": "Pleasant course. I improved as an individual subsequent to finishing this course"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "activity",
+    "title": "Using legos for AI",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, fugit? health 1",
+    "price": 70,
+    "area": "Physic",
+    "length": 60,
+    "orientation": "individual",
+    "rating": 2,
+    "author": {
+      "firstname": "Mudi",
+      "lastname": "ogra"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "",
+        "feedback": "Nice course. I became a better person after completing this course"
+      },
+      {
+        "id": 2,
+        "name": "Amaka Obodo",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "activity",
+    "title": "Using legos for AI",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, health 2?",
+    "price": 50,
+    "area": "Maths",
+    "length": 10,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "John",
+      "lastname": "Paul"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Abimo showtu",
+        "feedback": "Nice course. I became a better person after completing this course"
+      },
+      {
+        "id": 2,
+        "name": "Sokari Ogu",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "class",
+    "title": "Using legos for AI ",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. health 2",
+    "price": 100,
+    "area": "Eonomics",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Chidima",
+      "lastname": "Okolo"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Chidi Okolo",
+        "feedback": "Decent course. I improved as an individual in the wake of finishing this course"
+      },
+      {
+        "id": 2,
+        "name": "ken same",
+        "feedback": "Decent course. I improved as an individual in the wake of finishing this course"
+      }
+    ]
+  }
+]

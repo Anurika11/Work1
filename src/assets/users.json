@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "firstname": "Nnamdi",
+      "lastname": "Umeh",
+      "email": "endeking@gmail.com",
+      "type": "sp",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "firstname": "Joy",
+      "lastname": "mark",
+      "email": "joymark@gmail.com",
+      "type": "user",
+      "password": "password"
+
+    },
+    {
+      "id": 3,
+      "firstname": "Loveth",
+      "lastname": "Ifedi",
+      "email": "lovethifedi@gmail.com",
+      "type": "user",
+      "password": "password"
+
+    }
+]
