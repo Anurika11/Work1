@@ -90,19 +90,19 @@
             Result
         },
         methods: {
-            //generic search
+           
             search() {
                 let services = JSON.parse(localStorage.getItem('services'));
                 this.results = services.filter(service => service.title.toLowerCase().includes(this.searchQuery.toLowerCase()));
 
                 if (this.results.length >= 1) {
                     this.isResult = true;
-                    //check to apply subject area filters
+                   
                     if (this.subjectArea) {
                         this.results = this.results.filter(result => result.area === this.subjectArea);
                     }
 
-                    //check to apply duration filters
+                   
                     if (this.timeLength) {
                         this.results = this.results.filter(result => result.length <= this.timeLength);
                     }
