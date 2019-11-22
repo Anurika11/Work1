@@ -55,7 +55,7 @@
           </div>
           <div class="form-group form-check">
             <input type="checkbox" class="form-check-input" id="exampleCheck1" v-model="checked">
-            <label class="form-check-label" for="exampleCheck1">As a specialist co-op?</label>
+            <label class="form-check-label" for="exampleCheck1">As a specialist co op?</label>
           </div>
           <button type="button" class="btn btn-secondary" @click="register">Register</button>
         </div>
