@@ -1,5 +1,5 @@
 <template>
-  <div class="container mt-4" style="background-color:#808080; padding:2em;">
+  <div class="container mt-4" style="background-color:#808080; padding:2em;margin:1em;">
     
     <div class="mx-auto">
       <h3>Quest for additional educational programs</h3>
