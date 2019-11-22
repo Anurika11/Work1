@@ -63,7 +63,7 @@
       </section>
       
       <section v-else>
-        <h3> No Activity or Class found</h3>
+        <h3> No Activities or Class found</h3>
       </section>
     
     
