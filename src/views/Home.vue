@@ -1,5 +1,5 @@
 <template>
-  <div class="jumbotron">
+  <div class="jumbotron" style="background-color:#808080;">
     <div class="container">
       <h1 class="display-4">Hey there!</h1>
       <p class="lead">We offer awesome extra curricular exercises and classes</p>
