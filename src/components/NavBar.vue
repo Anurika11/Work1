@@ -15,7 +15,7 @@
 
           <li class="nav-item">
             <a style="cursor: pointer" v-if="isAuth" class="nav-link" @click="logout">Logout</a>
-            <router-link v-else class="nav-link" to="/signup">Login</router-link>
+            <router-link v-else class="nav-link" to="/signup">signin</router-link>
           </li>
         </ul>
       </div>
