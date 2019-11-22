@@ -29,7 +29,7 @@
         </div>
         
         <div class="col-md-4">
-          <label class="my-1 mr-2">Channel By type</label>
+          <label class="my-1 mr-2">Channel by type</label>
           <select class="w-100 custom-select my-1 mr-sm-2" v-model="type">
             <option selected>Pick...</option>
             <option value="person">Person</option>
