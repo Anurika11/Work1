@@ -1,4 +1,5 @@
 <template>
+<!--  !-->
   <div class="col-md-4 mb-3">
     <div class="card" style="width: 18rem;">
       <img src="@/assets/placeholder.jpg" class="card-img-top" alt="@/assets/placeholder.png">
